@@ -3,4 +3,4 @@ description,protocol,server,path,filename,format,tar,compression,username,passwo
 “PBO final GPS time series IGS05 pos”,ftp,data-out.unavco.org,pub/products/position/,pbo.final_igs05.pos.tar.gz,ascii,True,gzip,None,None
 “Blue Marble image acquired June 2”,http,neo.sci.gsfc.nasa.gov,servlet/RenderData?si=526294&cs=rgb&format=TIFF&width=3600&height=1800,None,GeoTIFF,False,False,None,None
 “NGDC World Magnetic Anomaly Map”, http,geotag.org,models/WDMAM/,None,ascii,False,zip,None,None
-“IERS Earth Orientation Parameters”,https,datacenter.iers.org,eop/-/somos/5Rgv/latest/214,,ascii,False,False,None,None
+“IERS Earth Orientation Parameters”,https,datacenter.iers.org,eop/-/somos/5Rgv/latest/214,None,ascii,False,False,None,None
