@@ -1,6 +1,6 @@
 description,protocol,server,path,filename,format,tar,compression,username,password
-“UNR final GPS time series IGS08 xyz”,http,geodesy.unr.edu,gps_timeseries/txyz/IGS08/,*,ascii,False,False,,
-“PBO final GPS time series IGS05 pos”,ftp, data-out.unavco.org,pub/products/position/,pbo.final_igs05.pos.tar.gz,ascii,True,gzip,,
-“Blue Marble image acquired June 2”,http,neo.sci.gsfc.nasa.gov,servlet/RenderData?si=526294&cs=rgb&format=TIFF&width=3600&height=1800,,GeoTIFF,False,False,,
-“NGDC World Magnetic Anomaly Map”, http,geotag.org,models/WDMAM/,ascii,False,zip,,
-“IERS Earth Orientation Parameters”,https,datacenter.iers.org,eop/-/somos/5Rgv/latest/214,,ascii,False,False,,
+“UNR final GPS time series IGS08 xyz”,http,geodesy.unr.edu,gps_timeseries/txyz/IGS08/,None,ascii,False,False,None,None
+“PBO final GPS time series IGS05 pos”,ftp,data-out.unavco.org,pub/products/position/,pbo.final_igs05.pos.tar.gz,ascii,True,gzip,None,None
+“Blue Marble image acquired June 2”,http,neo.sci.gsfc.nasa.gov,servlet/RenderData?si=526294&cs=rgb&format=TIFF&width=3600&height=1800,None,GeoTIFF,False,False,None,None
+“NGDC World Magnetic Anomaly Map”, http,geotag.org,models/WDMAM/,ascii,False,zip,None,None
+“IERS Earth Orientation Parameters”,https,datacenter.iers.org,eop/-/somos/5Rgv/latest/214,,ascii,False,False,None,None
