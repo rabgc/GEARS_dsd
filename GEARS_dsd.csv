@@ -5,3 +5,4 @@ Blue Marble image acquired June 2,http,neo.sci.gsfc.nasa.gov,servlet/RenderData?
 NGDC World Magnetic Anomaly Map, http,geotag.org,models/WDMAM/,None,ascii,False,zip,None,None
 IERS Earth Orientation Parameters,https,datacenter.iers.org,eop/-/somos/5Rgv/latest/214,None,ascii,False,False,None,None
 2013 Boulder Creek Flood Data,http,nwis.waterdata.usgs.gov,usa/nwis/uv/?cb_00065=on&cb_00060=on&format=html&site_no=06730200&period=&begin_date=2013-09-09&end_date=2013-09-17,None,HTML,False,False,None,None
+2016 Storm Event Database,ftp,ftp.ncdc.noaa.gov,pub/data/swdi/stormevents/csvfiles/,StormEvents_locations-ftp_v1.0_d2016_c20160715.csv.gz,CSV,false,zip,None,None
