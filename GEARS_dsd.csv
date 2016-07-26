@@ -5,3 +5,4 @@ Blue Marble image acquired June 2,http,neo.sci.gsfc.nasa.gov,servlet/RenderData?
 NGDC World Magnetic Anomaly Map, http,geotag.org,models/WDMAM/,None,ascii,False,zip,None,None
 IERS Earth Orientation Parameters,https,datacenter.iers.org,eop/-/somos/5Rgv/latest/214,None,ascii,False,False,None,None
 SCSN earthquake catalog 1932-2016,ftp,service.scedc.caltech.edu,catalogs/SCEC_DC,SCEDC_catalogs.tar.gz,ascii,True,gzip,anonymous,<email>
+Venice monthly tide gauge at lat 45.433333 long 12.333333,http,www.psmsl.org,data/obtaining/rlr.monthly.data/168.rlrdata,None,ascii,False,False,None,None
