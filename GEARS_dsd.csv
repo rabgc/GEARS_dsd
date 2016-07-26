@@ -4,3 +4,6 @@ description,protocol,server,path,filename,format,tar,compression,username,passwo
 “Blue Marble image acquired June 2”,http,neo.sci.gsfc.nasa.gov,servlet/RenderData?si=526294&cs=rgb&format=TIFF&width=3600&height=1800,None,GeoTIFF,False,False,None,None
 “NGDC World Magnetic Anomaly Map”, http,geotag.org,models/WDMAM/,None,ascii,False,zip,None,None
 “IERS Earth Orientation Parameters”,https,datacenter.iers.org,eop/-/somos/5Rgv/latest/214,None,ascii,False,False,None,None
+"NOAA National Centers for Environmental Information Paleomagnetic Data",ftp,ftp.ngdc.noaa.gov,geomag/Paleomag/intensity/,vdm.txt,ascii,false,false,none,none
+"Southern Ocean Carbon and Climate Observations and Modeling",http,www3.mbari.org,SOCCOM/FloatList,none,ascii,false,false,none,none
+"WAISCORES: Deep Ice Coring in West Antarctica",ftp,sidads.colorado.edu,pub/DATASETS/AGDC/waiscores/timescales/SDMA_0-514_Nov2003.txt,Time scale for Siple Dome A ice core,ascii,false,false,none,none
