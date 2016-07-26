@@ -5,4 +5,4 @@ Blue Marble image acquired June 2,http,neo.sci.gsfc.nasa.gov,servlet/RenderData?
 NGDC World Magnetic Anomaly Map, http,geotag.org,models/WDMAM/,None,ascii,False,zip,None,None
 IERS Earth Orientation Parameters,https,datacenter.iers.org,eop/-/somos/5Rgv/latest/214,None,ascii,False,False,None,None
 CALTECH list of recent EQs in Cal and Nev,http,scedc.caltech.edu,recent/Quakes/,quakes0.html,html,False,False,None,None
-from Styron-Hetland paper Seismic evidence for slip on LANFs,http,strato.geo.arizona.edu:8000/user/gatesmason8/edit/aewk5/lanf_earthquake_likelihood,/data/,lanf_stats.csv,csv,False,False,None,None
+from Styron-Hetland paper Seismic evidence for slip on LANFs,https,github.com/,cossatot/,lanf_earthquake_likelihood,csv,False,False,None,None
