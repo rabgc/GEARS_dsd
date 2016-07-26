@@ -4,3 +4,5 @@ PBO final GPS time series IGS05 pos,ftp,data-out.unavco.org,pub/products/positio
 Blue Marble image acquired June 2,http,neo.sci.gsfc.nasa.gov,servlet/RenderData?si=526294&cs=rgb&format=TIFF&width=3600&height=1800,None,GeoTIFF,False,False,None,None
 NGDC World Magnetic Anomaly Map, http,geotag.org,models/WDMAM/,None,ascii,False,zip,None,None
 IERS Earth Orientation Parameters,https,datacenter.iers.org,eop/-/somos/5Rgv/latest/214,None,ascii,False,False,None,None
+CALTECH list of recent EQs in Cal and Nev,http,scedc.caltech.edu,recent/Quakes/,quakes0.html,html,False,False,None,None
+from Styron-Hetland paper Seismic evidence for slip on LANFs,http,strato.geo.arizona.edu:8000/user/gatesmason8/edit/aewk5/lanf_earthquake_likelihood,/data/,lanf_stats.csv,csv,False,False,None,None
