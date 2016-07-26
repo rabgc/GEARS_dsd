@@ -6,3 +6,6 @@ NGDC World Magnetic Anomaly Map, http,geotag.org,models/WDMAM/,None,ascii,False,
 IERS Earth Orientation Parameters,https,datacenter.iers.org,eop/-/somos/5Rgv/latest/214,None,ascii,False,False,None,None
 CALTECH list of recent EQs in Cal and Nev,http,scedc.caltech.edu,recent/Quakes/,quakes0.html,html,False,False,None,None
 from Styron-Hetland paper Seismic evidence for slip on LANFs,https,github.com/,cossatot/,lanf_earthquake_likelihood,csv,False,False,None,None
+SCSN earthquake catalog 1932-2016,ftp,service.scedc.caltech.edu,catalogs/SCEC_DC,SCEDC_catalogs.tar.gz,ascii,True,gzip,anonymous,<email>
+Venice monthly tide gauge at lat 45.433333 long 12.333333,http,psmsl.org,data/obtaining/rlr.monthly.data/168.rlrdata,None,ascii,False,False,None,None
+Significant volcanic eruption database,http,ngdc.noaa.gov,nndc/struts/results?type_0=Exact&query_0=$HAZ_EVENT_ID&t=102557&s=50&d=54&dfn=volerup.txt,volerup.txt,ascii,False,False,None,None
