@@ -15,3 +15,6 @@ Global Historical Tsunami Database,http,www.un-spider.org,links-and-resources/da
 National Land Cover Dataset,https,viewer.nationalmap.gov,/basic/,None,GeoTIFF,False,zip,None,None
 US Coastal Land Cover Data,https,coast.noaa.gov,dataregistry/search/collection,None,GeoTIFF,False,zip,None,None
 Neuse River Basin Land Cover Land Use (EPA),http,gisdata.lib.ncsu.edu,/fedgov/epa/epalulc/epalulc,None,GeoTiff,False,zip,None,None
+Global Strain Rate Map Project,http,gsrm.unavco.org,/model/rotated_geodetic/,None,ascii,False,False,None,None
+Global Historical Earthquake Catalogue,https,www.emidius.eu,/GEH/download/,GEM-GHEC-v1.txt,ascii,False,False,None,None
+Nevada Bureau of Mines and Geology Quaternary Faults of Western US,http,data.nbmg.unr.edu,/Public/Geothermal/Data/GeologicData/,QuaternaryFaultsWesternUS.zip,.zip,True,zip,None,None
