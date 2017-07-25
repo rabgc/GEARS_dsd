@@ -18,3 +18,6 @@ Neuse River Basin Land Cover Land Use (EPA),http,gisdata.lib.ncsu.edu,/fedgov/ep
 Global Strain Rate Map Project,http,gsrm.unavco.org,/model/rotated_geodetic/,None,ascii,False,False,None,None
 Global Historical Earthquake Catalogue,https,www.emidius.eu,/GEH/download/,GEM-GHEC-v1.txt,ascii,False,False,None,None
 Nevada Bureau of Mines and Geology Quaternary Faults of Western US,http,data.nbmg.unr.edu,/Public/Geothermal/Data/GeologicData/,QuaternaryFaultsWesternUS.zip,.zip,True,zip,None,None
+Volcano Population Exposure Index,http,data.hdx.rwlabs.org,/dataset/a60ac839-920d-435a-bf7d-25855602699d/resource/e3b1ecf0-ec47-49f7-9011-6bbb7403ef6d/download/,volcano.csv,csv,False,False,None,None
+Significat Earthquakes from Past 30 Days as of 7/25/17,https,earthquake.usgs.gov,/earthquakes/feed/v1.0/summary/,significant_month.csv,csv,Fasle,False,None,None
+Gravity Survey Data from Glass Buttes Geothermal Exploration Project,http,gdr.openei.org,/files/858/,GlassButtes_Gravity.csv,csv,False,False,None,None
