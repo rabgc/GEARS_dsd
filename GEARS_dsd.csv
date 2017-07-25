@@ -12,3 +12,6 @@ Significant volcanic eruption database,http,ngdc.noaa.gov,nndc/struts/results?ty
 Nepal earthquake operations by Himalayan Disaster,https,data.humdata.org,dataset/operations-report,None,ascii,False,False,None,None
 Tambora volcanic eruption in Indonesia,http,volcano.si.edu,volcano.cfm?vn=264040,None,ascii,False,False,None,None
 Global Historical Tsunami Database,http,www.un-spider.org,links-and-resources/data-sources/global-historical-tsunami-database-noaa,None,ascii,False,False,None,None
+National Land Cover Dataset,https,viewer.nationalmap.gov,/basic/,None,GeoTIFF,False,zip,None,None
+US Coastal Land Cover Data,https,coast.noaa.gov,dataregistry/search/collection,None,GeoTIFF,False,zip,None,None
+Neuse River Basin Land Cover Land Use (EPA),http,gisdata.lib.ncsu.edu,/fedgov/epa/epalulc/epalulc,None,GeoTiff,False,zip,None,None
